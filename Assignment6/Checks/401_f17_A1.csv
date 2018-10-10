@@ -1,0 +1,6 @@
+0,Mon Aug 27 16:00:14 EDT 2018,true,main\Assignment1.java,typeDefined,Assignment1,main.Assignment1,Class
+0,Mon Aug 27 16:00:14 EDT 2018,true,main\Assignment1.java,expectedDeclaredSignatures,Assignment1,indexOf:String;char;int->int,Assignment1
+0,Mon Aug 27 16:00:14 EDT 2018,true,main\Assignment1.java,missingMethodCall,Assignment1,indexOf:String;char;int->int
+0,Mon Aug 27 16:00:14 EDT 2018,true,main\Assignment1.java,missingMethodCall,Assignment1
+0,Mon Aug 27 16:00:14 EDT 2018,true,main\RunTest.java,typeDefined,RunTest,No Expected Tag,Class
+0,Mon Aug 27 16:00:14 EDT 2018,true,main\alternate.java,typeDefined,alternate,No Expected Tag,Class

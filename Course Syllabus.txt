@@ -1,0 +1,12 @@
+1. Course Information, Introduction, and Scanning
+2. The Dual Roles of a Class, Constructors and Pointers
+3. Programming Interfaces
+4. User Interfaces
+5. Composite Objects and Shapes, Trees, DAGs and Graphs
+6. Inheritance and Collections, Variable Inheritance
+7. IS-A and Inheritance-based Type Checking
+8. Collection Kinds
+9. Model View Controller and Component Notifications
+10. User-Interface Toolkits and Graphics
+11. Abstract Classes, Generics, Adapters, Basic Delegation
+12. Assertions and Exceptions
