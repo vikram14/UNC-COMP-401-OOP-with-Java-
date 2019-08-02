@@ -1,7 +1,15 @@
 # UNC-COMP-401-OOP-with-Java-
-The course has an end goal of creating a project that simulates the famous bridge scene in the movie Monty Python by creating a command interpreter using threads, MVC, and the concepts of OOP and good program design. Each assignment builds up to this main goal.
-NOTE: an assignment numbered higher on this list will contain the previous assignments because each one forms a layer on which the next assignemnt can be implemented. Assignment 12: should be uploaded by Nov 27th,2018 as the course comes to an end. 
-Assignment/Project guidelines:
+The course has an end goal of building an interactive programming language, similar to scratch, that helps absolute beginners to visulaize what for loops do using the repeat() command and so on by simulating the famous bridge scene in the movie Monty Python. In this course we created a command interpreter using threads, MVC, and the concepts of OOP and good program design. Each assignment builds up to this main goal.
+NOTE: an assignment numbered higher on this list will contain the previous assignments because each one forms a layer on which the next assignemnt can be implemented.
+
+
+
+
+
+
+
+Assignment/Project guidelines. These links contain detailed description of what every layer of the project does:
+
 A1: https://docs.google.com/document/d/1HE16VrRQGyEvlf_HxzIVSqjf61ii09S14EmXljyM0u4/edit
 A2: https://docs.google.com/document/d/1euugVqHuUKu8uHz5yvP3qE8mHS-E4ffMg8nY_PaRrx0/edit
 A3: https://docs.google.com/document/d/1_v6zRS7eXwHav4GbSqkK49-JaPA5zCGQ4SaeX7XSvMg/edit
