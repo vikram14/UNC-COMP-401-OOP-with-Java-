@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fileset-config file-format-version="1.2.0" simple-config="true" sync-formatter="false">
+  <local-check-config name="COMP 401 A1 checkstyle" location="C:\Users\vikram14\Desktop\unc_checks_401_f17_a1.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="COMP401 A2" location="C:\Users\vikram14\Desktop\unc_checks_401_f17_a2.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="COMP401 A3 Checkstyle." location="C:\Users\vikram14\Desktop\unc_checks_401_f17_a3.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="comp401 a4" location="C:\Users\vikram14\Desktop\unc_checks_401_f17_a4.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="comp 401 A5" location="C:\Users\vikram14\Desktop\unc_checks_401_f17_a5.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="comp_401-A6" location="C:\Users\vikram14\Desktop\Asia 150\unc_checks_401_f17_a6.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="a11" location="C:\Users\vikram14\Desktop\unc_checks_401_f17_a11.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <local-check-config name="a12" location="C:\Users\vikram14\Desktop\unc_checks_401_f17_a12.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </local-check-config>
+  <fileset name="all" enabled="true" check-config-name="a12" local="true">
+    <file-match-pattern match-pattern="." include-pattern="true"/>
+  </fileset>
+</fileset-config>

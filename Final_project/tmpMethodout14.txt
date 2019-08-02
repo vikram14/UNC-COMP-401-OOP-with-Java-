@@ -1,0 +1,53 @@
+I***(BasicProjectExecution) Calling on object class main.Assignment2 751974996 method:public static void main.Assignment2.main(java.lang.String[]) args:[[Ljava.lang.String;@38fd76a9]timeOut:2000
+Enter String:
+Tokens for this input line:
+Quoted String: Quest?
+Quoted String: Grail...
+I***(BasicProjectExecution) Created tmp file:tmpMethodout15.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment2 751974996 method:public static void main.Assignment2.main(java.lang.String[]) args:[[Ljava.lang.String;@38fd76a9]timeOut:2000
+Enter String:
+Tokens for this input line:
+Quoted String: Quest?
+Quoted String: Grail...
+I***(MissingQuoteOutputTest) Could not find main class in:[main.Assignment2, ssignment, Main, main, ScanningIterator] or previous main run was infinite.
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment2.testcases.MissingQuoteOutputTest: 0.0
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment2.testcases.MissingQuoteOutputTest: 1.0
+I***(MissingQuoteOutputTest) _________________________________________________________________________
+I***(MissingQuoteOutputTest) Providing input:"Quest?" "Grail..." "Color? 
+"Blue?" "Sea !!!!! Gull" "E u r o p e an" "  A mer i can   
+. 
+
+I***(MissingQuoteOutputTest) Expected outputs:[(.*)(.*)uot(.*)Quest?(.*), (.*)(.*)uot(.*)Grail...(.*), (.*)(.*)uot(.*)Color?(.*), (.*)(.*)uot(.*)Blue?(.*), (.*)(.*)uot(.*)Sea !!!!! Gull(.*), (.*)(.*)uot(.*)E u r o p e an(.*), (.*)(.*)uot(.*)  A mer i can  (.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout16.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment2 751974996 method:public static void main.Assignment2.main(java.lang.String[]) args:[[Ljava.lang.String;@53579589]timeOut:2000
+Enter String:
+Tokens for this input line:
+Quoted String: Quest?
+Quoted String: Grail...
+I***(BasicProjectExecution) Created tmp file:tmpMethodout17.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment2 751974996 method:public static void main.Assignment2.main(java.lang.String[]) args:[[Ljava.lang.String;@53579589]timeOut:2000
+Enter String:
+Tokens for this input line:
+Quoted String: Quest?
+Quoted String: Grail...
+I***(MissingQuoteOutputTest) Could not find main class in:[main.Assignment2, ssignment, Main, main, ScanningIterator] or previous main run was infinite.
+I***(MissingQuoteOutputTest) _________________________________________________________________________
+I***(MissingQuoteOutputTest) Providing input:"Quest?" "Grail..." "Color?
+"Blue?" "Sea !!!!! Gull" "E u r o p e an" "  A mer i can  
+.
+
+I***(MissingQuoteOutputTest) Expected outputs:[(.*)(.*)uot(.*)Quest?(.*), (.*)(.*)uot(.*)Grail...(.*), (.*)(.*)uot(.*)Color?(.*), (.*)(.*)uot(.*)Blue?(.*), (.*)(.*)uot(.*)Sea !!!!! Gull(.*), (.*)(.*)uot(.*)E u r o p e an(.*), (.*)(.*)uot(.*)  A mer i can  (.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout18.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment2 751974996 method:public static void main.Assignment2.main(java.lang.String[]) args:[[Ljava.lang.String;@53579589]timeOut:2000
+Enter String:
+Tokens for this input line:
+Quoted String: Quest?
+Quoted String: Grail...
+I***(BasicProjectExecution) Created tmp file:tmpMethodout19.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment2 751974996 method:public static void main.Assignment2.main(java.lang.String[]) args:[[Ljava.lang.String;@53579589]timeOut:2000
+Enter String:
+Tokens for this input line:
+Quoted String: Quest?
+Quoted String: Grail...
+I***(MissingQuoteOutputTest) Could not find main class in:[main.Assignment2, ssignment, Main, main, ScanningIterator] or previous main run was infinite.
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment2.testcases.MissingQuoteOutputTest: 0.0

@@ -1,0 +1,88 @@
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@77b34770]timeOut:2000
+I***(SingleTokenProductTest) Could not find main class in:[main.Assignment1, ssignment, NumberScanner, numscan] or previous main run was infinite.
+I***(SingleTokenProductTest) _________________________________________________________________________
+I***(SingleTokenProductTest) Providing input:0202
+.
+
+I***(SingleTokenProductTest) Expected outputs:[(.*)202(.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout60.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@77b34770]timeOut:2000
+I***(BasicProjectExecution) Created tmp file:tmpMethodout61.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@77b34770]timeOut:2000
+I***(SingleTokenProductTest) Could not find main class in:[main.Assignment1, ssignment, NumberScanner, numscan] or previous main run was infinite.
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment1.testcases.SingleTokenProductTest: 0.0
+I***(TestCaseResult) ### SingleTokenSuite:Can process a single token: 0.0
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment1.testcases.VariableSpaceOutputTest: 1.0
+I***(VariableSpaceOutputTest) _________________________________________________________________________
+I***(VariableSpaceOutputTest) Providing input:22    44 66     
+11 33    55  77 
+. 
+
+I***(VariableSpaceOutputTest) Expected outputs:[(.*)22(.*), (.*)44(.*), (.*)66(.*), (.*)11(.*), (.*)33(.*), (.*)55(.*), (.*)77(.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout62.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@72a58f76]timeOut:2000
+I***(BasicProjectExecution) Created tmp file:tmpMethodout63.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@72a58f76]timeOut:2000
+I***(VariableSpaceOutputTest) Could not find main class in:[main.Assignment1, ssignment, NumberScanner, numscan] or previous main run was infinite.
+I***(VariableSpaceOutputTest) _________________________________________________________________________
+I***(VariableSpaceOutputTest) Providing input:22    44 66    
+11 33    55  77
+.
+
+I***(VariableSpaceOutputTest) Expected outputs:[(.*)22(.*), (.*)44(.*), (.*)66(.*), (.*)11(.*), (.*)33(.*), (.*)55(.*), (.*)77(.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout64.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@72a58f76]timeOut:2000
+I***(BasicProjectExecution) Created tmp file:tmpMethodout65.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@72a58f76]timeOut:2000
+I***(VariableSpaceOutputTest) Could not find main class in:[main.Assignment1, ssignment, NumberScanner, numscan] or previous main run was infinite.
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment1.testcases.VariableSpaceOutputTest: 0.0
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment1.testcases.VariableSpaceSumTest: 1.0
+I***(VariableSpaceSumTest) _________________________________________________________________________
+I***(VariableSpaceSumTest) Providing input:22    44 66     
+11 33    55  77 
+. 
+
+I***(VariableSpaceSumTest) Expected outputs:[(.*)132(.*), (.*)176(.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout66.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@26031ab7]timeOut:2000
+I***(BasicProjectExecution) Created tmp file:tmpMethodout67.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@26031ab7]timeOut:2000
+I***(VariableSpaceSumTest) Could not find main class in:[main.Assignment1, ssignment, NumberScanner, numscan] or previous main run was infinite.
+I***(VariableSpaceSumTest) _________________________________________________________________________
+I***(VariableSpaceSumTest) Providing input:22    44 66    
+11 33    55  77
+.
+
+I***(VariableSpaceSumTest) Expected outputs:[(.*)132(.*), (.*)176(.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout68.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@26031ab7]timeOut:2000
+I***(BasicProjectExecution) Created tmp file:tmpMethodout69.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@26031ab7]timeOut:2000
+I***(VariableSpaceSumTest) Could not find main class in:[main.Assignment1, ssignment, NumberScanner, numscan] or previous main run was infinite.
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment1.testcases.VariableSpaceSumTest: 0.0
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment1.testcases.VariableSpaceProductTest: 1.0
+I***(VariableSpaceProductTest) _________________________________________________________________________
+I***(VariableSpaceProductTest) Providing input:22    44 66     
+11 33    55  77 
+. 
+
+I***(VariableSpaceProductTest) Expected outputs:[(.*)132(.*), (.*)176(.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout70.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@3a9ac5a8]timeOut:2000
+I***(BasicProjectExecution) Created tmp file:tmpMethodout71.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@3a9ac5a8]timeOut:2000
+I***(VariableSpaceProductTest) Could not find main class in:[main.Assignment1, ssignment, NumberScanner, numscan] or previous main run was infinite.
+I***(VariableSpaceProductTest) _________________________________________________________________________
+I***(VariableSpaceProductTest) Providing input:22    44 66    
+11 33    55  77
+.
+
+I***(VariableSpaceProductTest) Expected outputs:[(.*)132(.*), (.*)176(.*)]
+I***(BasicProjectExecution) Created tmp file:tmpMethodout72.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@3a9ac5a8]timeOut:2000
+I***(BasicProjectExecution) Created tmp file:tmpMethodout73.txt
+I***(BasicProjectExecution) Calling on object class main.Assignment1 1706114049 method:public static void main.Assignment1.main(java.lang.String[]) args:[[Ljava.lang.String;@3a9ac5a8]timeOut:2000
+I***(VariableSpaceProductTest) Could not find main class in:[main.Assignment1, ssignment, NumberScanner, numscan] or previous main run was infinite.
+I***(TestCaseResult) ### gradingTools.comp401f16.assignment1.testcases.VariableSpaceProductTest: 0.0
+I***(TestCaseResult) ### VariableSpaceSuite:Handles Variable Spaces: 0.0
+I***(TestCaseResult) ### Assignment1Suite: 0.0
